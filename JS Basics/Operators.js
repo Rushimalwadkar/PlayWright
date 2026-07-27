@@ -1,0 +1,10 @@
+let a = 10;
+let b = 2 ;
+sum = a + b;
+div = a / b;
+mult = a * b;
+sub = a - b;
+console.log("Sum is " + sum);
+console.log("Division is " + div);
+console.log("Multiplication is " + mult);
+console.log("Subtraction is " + sub);
