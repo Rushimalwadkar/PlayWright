@@ -12,3 +12,4 @@ if (a > b) {
 } else {
     console.log("a is equal to b");
 } 
+console.log("Comparison Completed");

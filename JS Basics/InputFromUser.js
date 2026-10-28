@@ -1,3 +1,3 @@
 
 const data = require('fs').readFileSync(0, 'utf8');
-console.log("User Input: " + data);
+console.log("User Input : " + data);
