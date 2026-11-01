@@ -1,0 +1,14 @@
+let str = "this is string example. ";
+console.log(str.length);
+console.log(str.toUpperCase());
+console.log(str.toLowerCase());
+console.log(str.charAt(5));
+console.log(str.indexOf("string"));
+console.log(str.lastIndexOf("is"));
+console.log(str.slice(8,14));
+console.log(str.replace("string","StringEg"));
+let [...arr]=str.split(" ");
+console.log(arr);
+console.log(arr[0]);
+let withoutSpace = str.trimEnd();
+console.log(withoutSpace);

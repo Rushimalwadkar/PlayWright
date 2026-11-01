@@ -1,0 +1,24 @@
+{
+  "name": "playwright-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AsyncAwait.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rushimalwadkar/PlayWright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Rushimalwadkar/PlayWright/issues"
+  },
+  "homepage": "https://github.com/Rushimalwadkar/PlayWright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1"
+  }
+}
