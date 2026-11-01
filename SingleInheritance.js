@@ -19,4 +19,4 @@ class Dog extends Animal {
 }
 let dog = new Dog("Bunny "," Lab "," black");
 dog.sleep();
-console.log("color of "+dog.name + " is "+ dog.color);
+console.log("color of "+dog.name + " is "+ dog.color); 
